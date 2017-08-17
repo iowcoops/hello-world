@@ -1,2 +1,3 @@
 # hello-world
-First git-hub repository
+
+First attempt at using the git-hub repository.  Going through the tutorial!
